@@ -1,5 +1,3 @@
-Flask
-requests
-colorama
-cfonts
-names
+Flask==2.3.2
+requests==2.31.0
+telebot==0.0.5
